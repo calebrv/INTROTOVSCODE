@@ -8,3 +8,5 @@ plt.show()
 #Step 2) Activate your VE: myvenv/scripts/activate
 #Step 3) Install 3rd party library: pip3 install matplotlib
 
+print("Hello World")
+
